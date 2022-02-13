@@ -607,10 +607,22 @@ Publish the website in the given URL.
 </html>
 
 ~~~
-## OUTPUT:
-
+# OUTPUT:
 ### Home Page:
+![output](home.png)
+
+### Gallery:
+
+![output](gallery.png)
 
 
-## Result:
+### About Us:
+
+![output](about.png)
+
+
+
+# Result:
+A website has been designed using bootstrap framework.
+
 
